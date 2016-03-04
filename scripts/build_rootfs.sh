@@ -14,7 +14,7 @@ IMG_NAME=disk.img
 #list of extra packages to be installed
 SERVICES="quagga radvd"
 PACKAGES="tcpdump bridge-utils"
-BASE_PACKAGES="iproute net-tools iputils-ping traceroute mingetty module-init-tools procps vim"
+BASE_PACKAGES="iproute net-tools telnet iputils-ping traceroute mingetty module-init-tools procps vim"
 #to speedup installation use a nearby mirror
 MIRROR="http://ftp.nl.debian.org/debian"
 VERSION="wheezy"
