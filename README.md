@@ -3,6 +3,7 @@ Ogopogo - quickly build virtual network topologies
 
 Requirements
 ------------
+* Linux distro that still contains uml-linux, e.g. Ubuntu 14.04
 * Packages: python user-mode-linux vde2 screen debootstrap
 * Optionally python-networkx and python-matplotlib
 
