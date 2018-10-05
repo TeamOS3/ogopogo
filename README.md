@@ -3,7 +3,7 @@ Ogopogo - quickly build virtual network topologies
 
 Requirements
 ------------
-* Python, user-mode-linux, vde2, screen
+* Packages: python user-mode-linux vde2 screen debootstrap
 * Optionally python-networkx and python-matplotlib
 
 Getting started
